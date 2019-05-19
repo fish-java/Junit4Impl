@@ -6,7 +6,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.github.fish56</groupId>
-    <artifactId>JUnit4Impl</artifactId>
+    <artifactId>Junit4Impl</artifactId>
     <version>1.0</version>
 
     <dependencies>

@@ -2,6 +2,9 @@ package annotation;
 
 import org.junit.*;
 
+/**
+ * Junit测试类的生命周期
+ */
 public class LifeCycle {
     // 在测试类初始化之前开始前执行
     //   必须是static方法

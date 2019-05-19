@@ -3,6 +3,9 @@ package assertResult;
 import org.junit.Assert;
 import org.junit.Test;
 
+/**
+ * 断言语法
+ */
 public class JUnitAssert {
     @Test(expected = AssertionError.class)
     public void assertSame(){
